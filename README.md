@@ -1,9 +1,27 @@
-## Hi there 👋
+<!-- Greeting -->
+# Hey there! :wave::smiley:
 
-[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinzjj)](https://github.com/anuraghazra/github-readme-stats)
+<!--Introduction -->
+I'm Justin!
+
+<!-- Working GIF -->
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
+
+### 💼  Things that I'm currently working on: 
+
+### 🌱 Challenges that I’m currently challenging myself:
+
+
+
+<h4 align="center"> Thanks for Visiting!:innocent:</h4>
+
+<!-- Credit -->
+### Credit to 
+- [**GIPHY**](https://giphy.com/) for GIFs. 
+
 
 <!--
-**justinzjj/justinzjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JoykishanSharma/JoykishanSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,3 +34,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+⭐️ From [JoykishanSharma](https://github.com/JoykishanSharma)
